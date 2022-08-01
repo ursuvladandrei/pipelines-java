@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ursuvladandrei/Azure%20Pipelines%20test/_apis/build/status/ursuvladandrei.pipelines-java?branchName=main)](https://dev.azure.com/ursuvladandrei/Azure%20Pipelines%20test/_build/latest?definitionId=18&branchName=main)
 
 # Contributing
 
